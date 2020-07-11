@@ -6,3 +6,6 @@ This repository contains 2 ipynb files. Both are meant to perform car brand clas
 The first attemp at this challenge used transfer learning methods using the Resnet50 model, however, due to the lack of training images, this model did not perform very well; severe overfitting.
 
 The second attempt applied the same data augmentation technique to better fit the small input training set to a simpler CNN and performs better thant the ResNet model.
+
+
+Car image dataset obtained from https://github.com/krishnaik06/Deep-Learning-Car-Brand/blob/master/Datasets.zip
